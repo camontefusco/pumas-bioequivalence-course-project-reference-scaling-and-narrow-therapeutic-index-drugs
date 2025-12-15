@@ -9,6 +9,8 @@ This repository contains **Student Project 2** from the *Pumas Bioequivalence Co
 
 All analyses were performed in **Julia** using **Pumas.jl** and **Bioequivalence.jl**.
 
+![Banner](banner.png)
+
 ## ❓ Project Questions & Regulatory Focus
 
 This project investigates **how regulatory bioequivalence decisions change** when drugs exhibit **high within-subject variability** or belong to the **Narrow Therapeutic Index Drug (NTID)** category.
