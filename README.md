@@ -1,5 +1,14 @@
 # Student Project 2 — Reference Scaling & NTID Bioequivalence Analysis
 
+![Julia](https://img.shields.io/badge/Julia-1.9+-9558B2?logo=julia&logoColor=white)
+![Pumas](https://img.shields.io/badge/Pumas-PK%2FPD%20%26%20BE-blue)
+![Bioequivalence](https://img.shields.io/badge/Bioequivalence-Analysis-success)
+![FDA](https://img.shields.io/badge/Regulatory-FDA-blue)
+![EMA](https://img.shields.io/badge/Regulatory-EMA-blueviolet)
+![NTID](https://img.shields.io/badge/Narrow%20Therapeutic%20Index-NTID-critical)
+![RSABE](https://img.shields.io/badge/RSABE-Reference%20Scaling-orange)
+![PharmaDatasets](https://img.shields.io/badge/Data-PharmaDatasets-lightgrey)
+
 This repository contains **Student Project 2** from the *Pumas Bioequivalence Course*, focusing on:
 
 - Standard Average Bioequivalence (ABE)
