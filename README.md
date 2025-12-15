@@ -9,6 +9,25 @@ This repository contains **Student Project 2** from the *Pumas Bioequivalence Co
 
 All analyses were performed in **Julia** using **Pumas.jl** and **Bioequivalence.jl**.
 
+## ❓ Project Questions & Regulatory Focus
+
+This project investigates **how regulatory bioequivalence decisions change** when drugs exhibit **high within-subject variability** or belong to the **Narrow Therapeutic Index Drug (NTID)** category.
+
+The core questions addressed include:
+
+- When is **standard 80–125% bioequivalence** insufficient?
+- How is a **Highly Variable Drug (HVD)** identified using CVᵣ, and when is **reference scaling (RSABE)** appropriate?
+- How does **FDA RSABE** differ from **EMA NTID criteria**?
+- Why do NTID drugs require **tighter acceptance limits** despite reference scaling?
+- How do statistical BE conclusions translate into **clinical and regulatory decisions**?
+
+These questions are explored using **replicated crossover designs** and real datasets from *PharmaDatasets.jl*, applying FDA and EMA regulatory frameworks implemented in *Pumas.jl* and *Bioequivalence.jl*.
+
+📄 **Detailed discussion of project questions, regulatory rationale, and learning objectives is provided in:**
+
+- [`docs/student_project_questions.md`](docs/student_project_questions.md)
+
+
 ---
 
 ## 📂 Project Structure
@@ -69,7 +88,7 @@ Figures are stored in `figures_project2/` and referenced in the report.
 
 ---
 
-## 🧠 Key Findings (High Level)
+## 🧠 Key Findings
 
 - **PJ2017_4_3:** Low variability → Standard ABE sufficient  
 - **PJ2017_4_4:** Highly variable → RSABE appropriate, but **Cmax fails BE**  
