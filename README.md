@@ -125,12 +125,19 @@ julia --project=. scripts/student_project_2_run_and_save.jl
 
 ---
 
+## 🔗 Related Repositories
+
+- **Project 4 — Nonparametric Analysis & Clinical Interpretation of Tmax**  
+  https://github.com/camontefusco/pumas-bioequivalence-course-nonparametric-analysis-and-clinical-interpretation-of-tmax-endpoints
+
+---
+
 ## 🧑‍🎓 Author
 
 **Carlos Victor Montefusco Pereira**  
 Pumas Bioequivalence Course
 
---
+---
 
 ## Acknowledgments
 ** to PumasAI, Dr. Vijay Ivaturi, Dr. Yoni Nazarathy
