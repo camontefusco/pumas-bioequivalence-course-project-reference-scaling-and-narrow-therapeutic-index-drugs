@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Julia
+*.jl~
+*.ji
+.julia/
+
+# VS Code
+.vscode/
+
+# Temporary
+*.log
