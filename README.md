@@ -129,3 +129,8 @@ julia --project=. scripts/student_project_2_run_and_save.jl
 
 **Carlos Victor Montefusco Pereira**  
 Pumas Bioequivalence Course
+
+--
+
+## Acknowledgments
+** to PumasAI, Dr. Vijay Ivaturi, Dr. Yoni Nazarathy
