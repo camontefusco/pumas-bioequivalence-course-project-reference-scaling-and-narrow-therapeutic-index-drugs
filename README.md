@@ -8,6 +8,7 @@
 ![NTID](https://img.shields.io/badge/Narrow%20Therapeutic%20Index-NTID-critical)
 ![RSABE](https://img.shields.io/badge/RSABE-Reference%20Scaling-orange)
 ![PharmaDatasets](https://img.shields.io/badge/Data-PharmaDatasets-lightgrey)
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)
 
 This repository contains **Student Project 2** from the *Pumas Bioequivalence Course*, focusing on:
 
