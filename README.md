@@ -141,4 +141,4 @@ Pumas Bioequivalence Course
 ---
 
 ## Acknowledgments
-** to PumasAI, Dr. Vijay Ivaturi, Dr. Yoni Nazarathy
+to PumasAI, Dr. Vijay Ivaturi, Dr. Yoni Nazarathy
